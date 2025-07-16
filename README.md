@@ -27,8 +27,8 @@ It enables security enthusiasts to extract and analyze Chrome browsing history f
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Nuknov/TOOL.git
-    cd TOOL
+    git clone https://github.com/Nuknov/Chrome-History-Decrypter.git
+    cd Chrome-History-Decrypter
     ```
 
 2. **No external dependencies required.**
