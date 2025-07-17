@@ -1,3 +1,4 @@
+# Refresh GitHub language detection
 *.bat linguist-detectable=true
 *.cmd linguist-detectable=true
 *.py linguist-detectable=true
