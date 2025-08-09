@@ -47,7 +47,7 @@ It enables security enthusiasts to extract and analyze Chrome browsing history f
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 > This toolkit is intended **solely for educational and authorized security testing purposes.**  
 > The author does not take responsibility for misuse or any damage resulting from unauthorized deployment.  
