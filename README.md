@@ -20,6 +20,7 @@ It enables security enthusiasts to extract and analyze Chrome browsing history f
 
 - Windows environment (tested on Windows 10/11).
 - Batch interpreter (`cmd.exe`) — pre-installed on all Windows systems.
+*Python should has to be 3.12.2 or above.*
 
 ---
 
@@ -52,6 +53,7 @@ It enables security enthusiasts to extract and analyze Chrome browsing history f
 > This toolkit is intended **solely for educational and authorized security testing purposes.**  
 > The author does not take responsibility for misuse or any damage resulting from unauthorized deployment.  
 > Always operate within your own environments or with explicit permission.
+> *Kaspersky can get this now.*
 
 ---
 
@@ -59,6 +61,7 @@ It enables security enthusiasts to extract and analyze Chrome browsing history f
 
 - **Ahmed Naveed (Nuknov)**  
 - https://github.com/Nuknov
+- https://twitter.com/Nuknov 
 
 ---
 
