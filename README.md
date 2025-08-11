@@ -59,7 +59,7 @@ It enables security enthusiasts to extract and analyze Chrome browsing history f
 
 ## Author
 
-- **Ahmed Naveed (Nuknov)**  
+- **Nuknov**  
 - https://github.com/Nuknov
 - https://twitter.com/Nuknov 
 
