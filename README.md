@@ -19,7 +19,7 @@ It enables security enthusiasts to extract and analyze Chrome browsing history f
 ## Prerequisites
 
 - Windows environment (tested on Windows 10/11).
-- Batch interpreter (`cmd.exe`) — pre-installed on all Windows systems.
+- Batch interpreter (`cmd.exe`) pre-installed on all Windows systems.
 *Python should has to be 3.12.2 or above.*
 
 ---
