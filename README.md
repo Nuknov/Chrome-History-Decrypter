@@ -12,7 +12,6 @@ It enables security enthusiasts to extract and analyze Chrome browsing history f
 - **Admin Brute Simulation:** Demonstrates brute force login attempts on local admin prompts **Main Worker Of Brute Force From Ebola Man** (safe concept only).
 - **USB Collector:** Copies target files/directories from connected removable drives.
 - **Windows Locker:** It put itself to the startup folder, don't allow user to login after next time user use the PC/Laptop even if the password correct or not.
-- **Stealth Mode:** Hidden feature that executes multiple modules in sequence for quick assessments.
 
 ---
 
