@@ -60,7 +60,7 @@ It enables security enthusiasts to extract and analyze Chrome browsing history f
 
 - **Nuknov**  
 - https://github.com/Nuknov
-- https://twitter.com/Nuknov 
+- https://x.com/Nuknov 
 
 ---
 
