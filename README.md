@@ -1,3 +1,6 @@
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)]()
+
+
 # Chrome History Decrypter
 
 **Chrome History Decrypter** is a modular Windows toolkit developed for educational, red team, and digital forensics demonstrations.  
