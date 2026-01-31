@@ -32,7 +32,7 @@ echo [92m======================================================================
 echo.
 echo [96m [ 1 ][0m  Chrome History Harvester (Not Decrypted)
 echo [96m [ 2 ][0m  Wi-Fi Password Gainer
-echo [96m [ 3 ][0m  Decrypt To Encrypt
+echo [96m [ 3 ][0m  Encrypt To Decrypt (History)
 echo [96m [ 4 ][0m  Windows LOCKER
 echo [91m [ 0 ][0m  Exit
 echo.
@@ -90,3 +90,4 @@ goto invalid_selection
 :end
 exit
 pause
+
