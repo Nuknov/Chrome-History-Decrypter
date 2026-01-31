@@ -1,5 +1,5 @@
 	@echo off
-	title Tool By - Muhammad Ahmed Naveed
+	title Tool By - Nuknov
 	chcp 65001 > nul
 	mode con: cols=120 lines=30
 
