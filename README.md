@@ -128,13 +128,14 @@ Designed for **security research, forensics training, and red team simulations**
 
 ```cmd
 C:\> cd Chrome-History-Decrypter
-C:\Chrome-History-Decrypter> Main.bat
+C:\Chrome-History-Decrypter> Main.bat (Or double-click the Main.bat)
 
 [Interactive Menu Appears]
-1. Extract Chrome History
-2. Dump Wi-Fi Passwords
-3. Exit
-4. Windows Locker ⚠️ DANGEROUS
+[1] Extract Chrome History Encrypted
+[2] Dump Wi-Fi Passwords
+[3] Extract Chrome History Encrypted
+[4] Windows Locker ⚠️ DANGEROUS
+[0] Exit
 
 Select option: 1
 [Chrome history extraction begins...]
