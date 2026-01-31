@@ -310,8 +310,6 @@ Please ensure all contributions are for **legitimate educational purposes** and 
 
 **Created by:** [Nuknov](https://github.com/Nuknov)
 
-**Remember:** Knowledge is power. Use it responsibly and ethically. 
-
 ---
 
 ## ⭐ **Support**
