@@ -16,7 +16,7 @@ Built for **security researchers, digital forensics students, and red team profe
 
 ## 📸 **Screenshot**
 
-![Main Menu](screenshots/SS1.jpg)
+![Main Menu](SS1.jpg)
 
 ---
 
