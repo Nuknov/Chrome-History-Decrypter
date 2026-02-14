@@ -38,7 +38,7 @@ Designed for **security research, forensics training, and red team simulations**
 ## 🛰️ **Tech Stack**
 
 - **Windows Batch Script** – Native Windows automation
-- **CMD.exe** – Pre-installed on all Windows systems
+- **CMD.exe or Powershell** – Pre-installed on all Windows systems
 - **SQLite Database Access** – Chrome history extraction
 - **Windows API Calls** – Wi-Fi credential retrieval
 - **Startup Registry Modification** – Persistence mechanism
