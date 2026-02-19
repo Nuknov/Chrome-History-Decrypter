@@ -310,4 +310,4 @@ Please ensure all contributions are for **legitimate educational purposes** and 
 
 **Created by:** [Nuknov](https://github.com/Nuknov)
 
-*You laugh at skids, but sometimes they can break things you can't.*
+*You laugh at skids, but sometimes they can break things you can't*
