@@ -312,10 +312,6 @@ Please ensure all contributions are for **legitimate educational purposes** and 
 
 ---
 
-## ⭐ **Support**
-
-If you find this project useful for your security research or education, please consider:
-- ⭐ **Starring** the repository
 - 🐛 **Reporting bugs** via GitHub Issues
 - 🤝 **Contributing** improvements and modules
 - 📢 **Sharing** with the security research and forensics community
