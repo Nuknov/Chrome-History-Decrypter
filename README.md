@@ -310,9 +310,6 @@ Please ensure all contributions are for **legitimate educational purposes** and 
 
 **Created by:** [Nuknov](https://github.com/Nuknov)
 
----
-
-- 🐛 **Reporting bugs** via GitHub Issues
 - 🤝 **Contributing** improvements and modules
 - 📢 **Sharing** with the security research and forensics community
 - 💬 **Providing feedback** on feature requests
