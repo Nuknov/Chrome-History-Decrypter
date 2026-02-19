@@ -310,10 +310,4 @@ Please ensure all contributions are for **legitimate educational purposes** and 
 
 **Created by:** [Nuknov](https://github.com/Nuknov)
 
-- 🤝 **Contributing** improvements and modules
-- 📢 **Sharing** with the security research and forensics community
-- 💬 **Providing feedback** on feature requests
-
----
-
 *You laugh at skids, but sometimes they can break things you can't.*
